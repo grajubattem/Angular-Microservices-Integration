@@ -3,3 +3,6 @@ Angular2
 in npm command line
 goto quizz-manic folder and execute below command
 quizz-maniac/node_modules/angular-ide/bin/ng serve --port=4200 
+
+Angular Plug for Eclipse
+https://marketplace.eclipse.org/content/angular-ide
